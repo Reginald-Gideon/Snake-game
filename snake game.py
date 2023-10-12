@@ -88,7 +88,6 @@ wn.onkeypress(goright, "d")
 
 segments = []
 
-# By - @pythonnotes1
 # Main Gameplay
 while True:
     wn.update()
